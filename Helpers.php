@@ -1,3 +1,9 @@
 <?php
 
-echo "funç~pes";
+function saudacao() {
+    return 'boa tarde';
+}
+
+function resumirTexto($texto) {
+    return 'texto resumido';
+}
